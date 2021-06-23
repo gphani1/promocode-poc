@@ -1,0 +1,17 @@
+@import url("./Header.css");
+@import url("./form.css");
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+  margin: 37px 54px 0;
+  padding: 20px;
+}
+
+.display_create {
+  display: block;
+  margin-bottom: 53px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 2px 2px 4px 4px #ccc;
+}

@@ -1,0 +1,69 @@
+.form-display {
+  display: block;
+}
+
+.label-display {
+  display: block;
+  margin-left: 23px;
+  font-size: 20px;
+  font-weight: 550;
+  color: #6f5d5d;
+}
+.input_field {
+  margin-left: 23px;
+  margin-top: 9px;
+  padding: 8px;
+  border-color: #d2cece;
+  border-width: 1px;
+  width: 92%;
+}
+input::placeholder {
+  color: #ccc;
+  padding-left: 5px;
+}
+.m_bottom {
+  margin-bottom: 24px;
+  /* width: 100%; */
+}
+
+.flex-wrap {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  margin-bottom: 23px;
+}
+
+.item_pos {
+  position: absolute;
+  top: 33px;
+  left: 22px;
+  min-width: 51%;
+  padding: 8px;
+}
+.m_right {
+  margin-right: 44px;
+  margin-top: 4px;
+}
+.MuiSwitch-root {
+  margin-left: 14px;
+}
+.MuiSwitch-track {
+  background-color: #423131;
+}
+
+.btn-submit {
+  margin-right: 15px;
+  padding: 10px;
+  border-width: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+button {
+  padding: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #887272;
+  cursor: pointer;
+  width: 20%;
+}

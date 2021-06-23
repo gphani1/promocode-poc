@@ -1,0 +1,15 @@
+.headerContainer{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+
+}
+.title{
+   color: #6f5d5d;
+}
+.addIcon{
+    color: #6f5d5d;
+    font-size: 37px !important; 
+    margin: 16px 8px 0px 15px;
+  
+}
